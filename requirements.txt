@@ -1,0 +1,5 @@
+boto3==1.24.46
+flake8==5.0.4
+jsonschema==4.9.1
+python-semantic-release==7.32.2
+xmlrunner==1.7.7

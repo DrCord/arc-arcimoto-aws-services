@@ -1,0 +1,15 @@
+{
+    "gitAngular.scopes": [
+        "aws_service",
+        "bundle",
+        "cognito",
+        "lambda_service",
+        "layers",
+        "path",
+        "pipeline",
+        "secretsmanager"
+    ],
+    "python.linting.enabled": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pylintEnabled": false
+}
